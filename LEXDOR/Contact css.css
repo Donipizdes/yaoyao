@@ -1,0 +1,80 @@
+body {
+    background: #000
+    }
+    
+    .card {
+    border: none;
+    height: 100%;
+    }
+    
+    .forms-inputs {
+    position: relative;
+    }
+    
+    .forms-inputs span {
+    position: absolute;
+    top: -1rem;
+    left: 0.625rem;
+    background-color: #fff;
+    padding: 0.3125rem 0.625rem;
+    font-size: 1rem;
+    }
+    
+    .forms-inputs input {
+    height: 3.125rem;
+    border: 0.125rem solid #eee;
+    }
+    
+    .forms-inputs input:focus {
+    box-shadow: none;
+    outline: none;
+    border: 0.125rem solid #000;
+    }
+    
+    .btn {
+    height: 3.125rem;
+    }
+    
+    .success-data {
+    display: flex;
+    flex-direction: column;
+    }
+    
+    input[type="text" i] {
+        padding: 5px 2px;
+    }
+
+    .bxs-badge-check {
+    font-size: 5.625rem;
+    }
+    
+    .pixel_font {
+      font-family: 'VT323', monospace;
+    }
+    
+    .click_me2 {
+      position: relative;
+      top: 6.25rem;
+      color:  white;
+      text-decoration: none;
+    }
+    
+    .click_me_decor {
+      text-decoration: none;
+      color: white;
+    }
+    
+    .click_me_decor:hover {
+      color: white;
+      opacity: 0.7;
+    }
+  
+    .bottom{
+      background-color: #1b2024;
+      margin-top: 6rem;
+      padding: 3rem 0;
+      margin-bottom: 0;
+      text-align: center;
+    }
+  
+  

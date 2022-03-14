@@ -1,0 +1,80 @@
+
+
+
+
+h3 {
+    color: white;
+    font-size: calc(1rem + 2vw);
+    font-family: fantasy;
+}
+
+h4 {
+    color: white;
+    font-size: calc(0.8rem + 1vw);
+
+}
+
+
+h5 {
+    color: white;
+    font-size: calc(0.6rem + 1vw);
+    font-family: -webkit-pictograph;
+}
+
+span {
+    display: inline-block;
+    padding-right: 8rem;
+}
+
+ul {
+    color: white;
+    
+}
+
+ol {
+    color: rgb(255, 255, 255);
+} 
+
+a {
+    color: rgb(255, 255, 255);
+    font-size: calc(0.4rem + 1vw);
+    width: 16.25rem;
+}
+
+.duide {
+    display: inline-block;
+    font-size: calc(0.4rem + 0.7vw);
+    font-family: 'Kumbh Sans', sans-serif;
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    width: 45rem;
+}
+
+.image-border {
+    border-color: #8d05c2c2;
+    border-width: 0.625rem;
+    border-radius: 1rem;
+    border-style: solid;
+}
+
+img, svg {
+    vertical-align: top;
+}
+
+.bottom{
+    background-color: #1b2024;
+    margin-top: 50px;
+    padding: 3rem 0;
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  .background-function{
+      background-color: rgba(97, 97, 245, 0.589);
+      border-radius: 1rem;
+  }
+
+  .background-method{
+      background-color: rgba(61, 61, 161, 0.637);
+      border-radius: 1rem;
+  }

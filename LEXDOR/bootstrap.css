@@ -1,0 +1,42 @@
+
+
+.h1 {
+  font-size: calc(3rem + 4.5vw);
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Zilla Slab Highlight', cursive;
+  }
+  
+  
+  h2 {
+    color: #ffdada;
+    text-align: center;
+    font-size: calc(1.2rem + 2vw);
+    font-family: 'Gentium Basic', serif;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: auto;
+}
+
+h3 {
+  color: #cea5a5;
+  text-align: center;
+  font-size: calc(0.5rem + 1.5vw);
+  font-family: 'Gentium Basic', serif;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: auto;
+}
+
+hr{
+  color: #ffffff;
+  max-height: 100rem;
+}
+  
+
+.bottom{
+  background-color: #1b2024;
+  margin-top: 50px;
+  padding: 3rem 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+   
